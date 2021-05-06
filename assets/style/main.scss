@@ -1,0 +1,66 @@
+@import 'variables';
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+main {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 1) 10%, rgba(0, 0, 0, 0.7) 100%), url(../images/bg1.jpg) center;
+    @include flexCenter(column);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: $light;
+    font: {
+        size: 1.3rem;
+        weight: 100;
+    }
+    padding: 0 10px 5px 0;
+}
+
+.name {
+    color: $primary1;
+    font: {
+        size: clamp(2rem, 10vw, 7.5rem);
+        weight: 900
+    };
+    letter-spacing: clamp(1px, 10vw, 12px);
+    margin: 0 0 clamp(5px, 2vh, 20px);
+}
+
+.last-name {
+    color: $light;
+}
+
+.title {
+    color: rgba($light, 0.7);
+    font: {
+        size: clamp(1.1rem, 4vw, 4.4rem);
+        weight: 300;
+    }
+    margin: 0;
+}
+
+.social-links-container {
+    @include flexCenter(row);
+    justify-content: space-around;
+    width: 80%;
+    margin-top: clamp(25px, 6vw, 70px);
+
+    .icon-link {
+        color: rgba($primary2, 0.8);
+        font-size: clamp(2rem, 10vw, 5rem);
+    }
+}
