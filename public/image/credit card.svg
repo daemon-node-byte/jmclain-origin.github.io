@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.413" height="23.878" viewBox="0 0 30.413 23.878">
+  <g id="credit_card" data-name="credit card" transform="translate(-32.499 -30.66)">
+    <g id="Group_23773" data-name="Group 23773" transform="translate(32.499 30.66)">
+      <path id="Path_256237" data-name="Path 256237" d="M1532.444,463.3v-2.35a2.453,2.453,0,0,0-2.456-2.451h-24.5a2.452,2.452,0,0,0-2.455,2.451v2.35h-.226v5.882h29.86V463.3Z" transform="translate(-1502.533 -457.997)" fill="#fff"/>
+      <g id="Group_23773-2" data-name="Group 23773" transform="translate(0.502 11.185)">
+        <rect id="Rectangle_20219" data-name="Rectangle 20219" width="29.408" height="8.169" fill="#fff"/>
+        <path id="Path_256238" data-name="Path 256238" d="M1503.259,496v1.571a2.452,2.452,0,0,0,2.455,2.451h24.5a2.453,2.453,0,0,0,2.456-2.451V496Z" transform="translate(-1503.259 -487.831)" fill="#d0d0d0"/>
+      </g>
+      <path id="Path_256239" data-name="Path 256239" d="M1529.714,481.378h-24.5a2.959,2.959,0,0,1-2.958-2.953V460.453a2.959,2.959,0,0,1,2.958-2.953h24.5a2.96,2.96,0,0,1,2.959,2.953v17.971A2.96,2.96,0,0,1,1529.714,481.378Zm-24.5-22.872a1.953,1.953,0,0,0-1.953,1.948v17.971a1.953,1.953,0,0,0,1.953,1.948h24.5a1.953,1.953,0,0,0,1.953-1.948V460.453a1.953,1.953,0,0,0-1.953-1.948Z" transform="translate(-1502.259 -457.5)"/>
+      <g id="Group_23774" data-name="Group 23774" transform="translate(19.731 14.704)">
+        <rect id="Rectangle_20220" data-name="Rectangle 20220" width="5.907" height="4.273" rx="2.136" transform="translate(0.502 0.503)" fill="#ffc627"/>
+        <path id="Path_256240" data-name="Path 256240" d="M1546.8,487.755a.615.615,0,0,1,.613.613v2.042a.615.615,0,0,1-.613.613h-3.676a.614.614,0,0,1-.612-.613v-2.042a.614.614,0,0,1,.612-.613h3.676m0-1.005h-3.676a1.62,1.62,0,0,0-1.618,1.618v2.042a1.62,1.62,0,0,0,1.618,1.618h3.676a1.62,1.62,0,0,0,1.618-1.618v-2.042a1.62,1.62,0,0,0-1.618-1.618Z" transform="translate(-1541.509 -486.75)"/>
+      </g>
+      <g id="Group_23775" data-name="Group 23775" transform="translate(4.373 15.835)">
+        <line id="Line_2716" data-name="Line 2716" x2="5.178" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_2717" data-name="Line 2717" x2="5.178" transform="translate(0 3.016)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+      </g>
+      <rect id="Rectangle_20221" data-name="Rectangle 20221" width="29.408" height="4.705" transform="translate(0.502 4.092)"/>
+    </g>
+  </g>
+</svg>
