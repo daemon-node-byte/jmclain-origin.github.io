@@ -39,7 +39,6 @@ function applyClassForResponsiveNavbar(viewportWidth) {
 function toggleEmailSubmitButton() {
     document.getElementById("email-submit-btn").disabled =
         !EMAIL_REGEX.test(this.value);
-    this.removeEventListener("input", toggleEmailSubmitButton);
 }
 function handleEmailFormSubmission(event) {
     event.preventDefault();
