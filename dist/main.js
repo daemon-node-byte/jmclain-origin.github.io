@@ -116,7 +116,7 @@ function validateEmail(email) {
     return __awaiter(this, void 0, void 0, function* () {
         return new Promise((resolve, reject) => {
             if (EMAIL_REGEX.test(email)) {
-                resolve(/@asu.edu$/i.test(email));
+                resolve(/@asu\.edu$/i.test(email));
             }
             else {
                 reject("invalid email");
